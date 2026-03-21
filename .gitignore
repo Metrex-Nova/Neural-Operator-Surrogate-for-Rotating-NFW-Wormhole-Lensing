@@ -4,9 +4,6 @@ data/*.npy
 # model checkpoints
 checkpoints/
 
-# plots output
-plots/
-
 # Python
 __pycache__/
 *.py[cod]
