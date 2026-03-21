@@ -1,0 +1,23 @@
+# data (too large for git)
+data/*.npy
+
+# model checkpoints
+checkpoints/
+
+# plots output
+plots/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
